@@ -12,9 +12,6 @@ This project involves a comprehensive analysis of store sales data, including da
 6. [Sales Forecasting](#sales-forecasting)
 7. [Results and Discussion](#results-and-discussion)
 8. [Conclusion](#conclusion)
-9. [How to Run](#how-to-run)
-10. [Dependencies](#dependencies)
-11. [License](#license)
 
 ## Data
 The dataset used in this project is the "Store Sales Forecasting Dataset" available on Kaggle. It includes information on sales transactions, including dates, product categories, quantities, discounts, and profits.
